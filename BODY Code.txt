@@ -1,0 +1,321 @@
+In the <body>, replace the <div class="reveal"> node with:
+
+<div class="theme-font-josefine theme-color-sea-yellow" style="width: 100%; height: 100%;">
+    <div class="reveal">
+        <div class="slides">
+            <section class="stack">
+                <section>
+                    <div class="sl-block" data-block-type="text" style="width: 800px; left: 78px; top: 59px; height: auto;">
+                        <div style="text-align: center; z-index: 11; color: rgb(204, 0, 0); background-color: transparent;" class="sl-block-content fragment" data-fragment-index="0">
+                            <h1>Os jogos eletrônicos e seus impactos na sociedade.</h1>
+                        </div>
+                    </div>
+                    <div style="min-width: 4px; min-height: 4px; width: 242px; height: 191px; left: 78px; top: 352px;" data-block-type="shape" class="sl-block">
+                        <div style="z-index: 12;" data-shape-stretch="false" data-shape-fill-color="#000000" data-shape-type="symbol-happy" class="sl-block-content fragment" data-fragment-index="1">
+                            <svg viewBox="0 0 32 32" preserveAspectRatio="xMidYMid" height="100%" width="100%" version="1.1"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <g class="shape-element" fill="#000000">
+                                    <path d="M16 32c8.837 0 16-7.163 16-16s-7.163-16-16-16-16 7.163-16 16 7.163 16 16 16zM16 3c7.18 0 13 5.82 13 13s-5.82 13-13 13-13-5.82-13-13 5.82-13 13-13zM16 18.711c3.623 0 7.070-0.963 10-2.654-0.455 5.576-4.785 9.942-10 9.942-5.215 0-9.544-4.371-10-9.947 2.93 1.691 6.377 2.658 10 2.658zM8 11c0-1.657 0.895-3 2-3s2 1.343 2 3c0 1.657-0.895 3-2 3-1.105 0-2-1.343-2-3zM20 11c0-1.657 0.895-3 2-3s2 1.343 2 3c0 1.657-0.895 3-2 3-1.105 0-2-1.343-2-3z"></path>
+                                </g>
+                            </svg>
+                        </div>
+                    </div>
+                    <div style="min-width: 4px; min-height: 4px; width: 230px; height: 193px; left: 614px; top: 352px;" data-block-type="shape" class="sl-block">
+                        <div style="z-index: 13;" data-shape-stretch="false" data-shape-fill-color="#000000" data-shape-type="symbol-sad" class="sl-block-content fragment" data-fragment-index="2">
+                            <svg viewBox="0 0 32 32" preserveAspectRatio="xMidYMid" height="100%" width="100%" version="1.1"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <g class="shape-element" fill="#000000">
+                                    <path d="M16 32c8.837 0 16-7.163 16-16s-7.163-16-16-16-16 7.163-16 16 7.163 16 16 16zM16 3c7.18 0 13 5.82 13 13s-5.82 13-13 13-13-5.82-13-13 5.82-13 13-13zM8 10c0-1.105 0.895-2 2-2s2 0.895 2 2c0 1.105-0.895 2-2 2-1.105 0-2-0.895-2-2zM20 10c0-1.105 0.895-2 2-2s2 0.895 2 2c0 1.105-0.895 2-2 2-1.105 0-2-0.895-2-2zM9.997 24.398l-2.573-1.544c1.749-2.908 4.935-4.855 8.576-4.855 3.641 0 6.827 1.946 8.576 4.855l-2.573 1.544c-1.224-2.036-3.454-3.398-6.003-3.398-2.549 0-4.779 1.362-6.003 3.398z"></path>
+                                </g>
+                            </svg>
+                        </div>
+                    </div>
+                    <div style="height: auto; min-width: 30px; min-height: 30px; width: 768px; left: 80px; top: 545px;" data-block-type="text" class="sl-block">
+                        <div style="z-index: 14; color: rgb(0, 0, 0);" class="sl-block-content fragment" data-fragment-index="0">
+                            <p>Benefícios? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Malefícios?</p>
+                        </div>
+                    </div>
+                </section>
+                <section>
+                    <div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 4px; height: auto;">
+                        <div class="sl-block-content fragment" style="z-index: 11; color: rgb(32, 18, 77); background-color: rgb(201, 218, 248);" data-fragment-index="0">
+                            <h1 style="text-align: left;">Quem sou eu?</h1>
+                        </div>
+                    </div>
+                    <div class="sl-block" data-block-type="text" style="height: auto; min-width: 30px; min-height: 30px; width: 950px; left: 5px; top: 125px;">
+                        <div class="sl-block-content fragment" style="z-index: 12;" dir="ui" data-has-custom-html="" data-fragment-index="0">
+                            <h3>
+                                <span style="font-size:48px">
+                                    <strong>Pedro Godinho Lopes</strong>
+                                </span>
+                            </h3>
+                            <p style="text-align:left">Estudante de Gestão da Tecnologia da Informação</p>
+                            <p style="text-align:left">
+                                <span style="font-size:16px">(Vacel 2014.)&nbsp;</span>
+                            </p>
+                            <p style="text-align:left">&nbsp;</p>
+                            <p style="text-align:left">Amante da Tecnologia e Segurança da Informação</p>
+                            <p style="text-align:left">&nbsp;</p>
+                            <p style="text-align:left">Consultor em TI</p>
+                            <p style="text-align:left">&nbsp;</p>
+                            <p style="text-align:left">Foco&nbsp;nas&nbsp;áreas de Segurança, Redes e Software Livre.</p>
+                            <p style="text-align:left">&nbsp;</p>
+                            <p>
+                                <strong>
+                                    <span style="font-size:16px">"Na juventude deve-se acumular o saber. Na velhice fazer uso dele."</span>
+                                </strong>
+                            </p>
+                            <p>
+                                <em>
+                                    <span style="font-size:16px">
+                                        <a href="" target="_blank">Rousseau</a>
+                                    </span>
+                                </em>
+                            </p>
+                        </div>
+                    </div>
+                </section>
+                <section>
+                    <div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 42px; height: auto;">
+                        <div style="z-index: 11; background-color: rgb(255, 153, 0);" class="sl-block-content">
+                            <h1>Panorama Atual</h1>
+                        </div>
+                    </div>
+                    <div style="height: auto; min-width: 30px; min-height: 30px; width: 600px; left: 0px; top: 140px;" data-block-type="text" class="sl-block">
+                        <div style="z-index: 12; text-align: justify;" class="sl-block-content">
+                            <p style="text-align:left">
+                                <strong>-Novo Entretenimento</strong>
+                            </p>
+                            <p style="text-align:left">&nbsp;</p>
+                            <p style="text-align:left">&nbsp;</p>
+                            <p style="text-align:left">
+                                <strong>-Crescimento Tecnológico</strong>
+                            </p>
+                        </div>
+                    </div>
+                    <div style="min-width: 4px; min-height: 4px; width: 260px; height: 292px; left: 720px; top: 9px;" data-block-type="shape" class="sl-block">
+                        <div style="z-index: 13;" data-shape-stretch="false" data-shape-fill-color="#000000" data-shape-type="symbol-earth" class="sl-block-content">
+                            <svg viewBox="0 0 32 32" preserveAspectRatio="xMidYMid" height="100%" width="100%" version="1.1"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <g class="shape-element" fill="#000000">
+                                    <path d="M27.314 4.686c3.022 3.022 4.686 7.040 4.686 11.314s-1.664 8.292-4.686 11.314c-3.022 3.022-7.040 4.686-11.314 4.686s-8.292-1.664-11.314-4.686c-3.022-3.022-4.686-7.040-4.686-11.314s1.664-8.292 4.686-11.314c3.022-3.022 7.040-4.686 11.314-4.686s8.292 1.664 11.314 4.686zM25.899 25.9c1.971-1.971 3.281-4.425 3.821-7.096-0.421 0.62-0.824 0.85-1.073-0.538-0.257-2.262-2.335-0.817-3.641-1.621-1.375 0.927-4.466-1.802-3.941 1.276 0.81 1.388 4.375-1.858 2.598 1.079-1.134 2.050-4.145 6.592-3.753 8.946 0.049 3.43-3.504 0.715-4.729-0.422-0.824-2.279-0.281-6.262-2.434-7.378-2.338-0.102-4.344-0.314-5.25-2.927-0.545-1.87 0.58-4.653 2.584-5.083 2.933-1.843 3.98 2.158 6.731 2.232 0.854-0.894 3.182-1.178 3.375-2.18-1.805-0.318 2.29-1.517-0.173-2.199-1.358 0.16-2.234 1.409-1.512 2.467-2.632 0.614-2.717-3.809-5.247-2.414-0.064 2.206-4.132 0.715-1.407 0.268 0.936-0.409-1.527-1.594-0.196-1.379 0.654-0.036 2.854-0.807 2.259-1.325 1.225-0.761 2.255 1.822 3.454-0.059 0.866-1.446-0.363-1.713-1.448-0.98-0.612-0.685 1.080-2.165 2.573-2.804 0.497-0.213 0.973-0.329 1.336-0.296 0.752 0.868 2.142 1.019 2.215-0.104-1.862-0.892-3.915-1.363-6.040-1.363-3.051 0-5.952 0.969-8.353 2.762 0.645 0.296 1.012 0.664 0.39 1.134-0.483 1.439-2.443 3.371-4.163 3.098-0.893 1.54-1.482 3.238-1.733 5.017 1.441 0.477 1.773 1.42 1.464 1.736-0.734 0.64-1.185 1.548-1.418 2.541 0.469 2.87 1.818 5.515 3.915 7.612 2.644 2.644 6.16 4.1 9.899 4.1s7.255-1.456 9.899-4.1z"></path>
+                                </g>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="sl-block" data-block-type="image" style="min-width: 30px; min-height: 30px; width: 960px; height: 540px; left: 0px; top: 139px;">
+                        <div class="sl-block-content" style="z-index: 14; opacity: 0.22;">
+                            <img style="visibility: visible;" data-natural-width="1600" data-natural-height="900" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/pedrolopes-2/images/1244078/mario.jpg"/>
+                        </div>
+                    </div>
+                </section>
+                <section>
+                    <div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 29px; height: auto;">
+                        <div style="color: rgb(0, 0, 0); z-index: 11; background-color: rgb(0, 255, 0);" class="sl-block-content">
+                            <h1>Benefícios</h1>
+                        </div>
+                    </div>
+                    <div style="min-width: 4px; min-height: 4px; width: 300px; height: 253px; left: 660px; top: 5px;" data-block-type="shape" class="sl-block">
+                        <div style="z-index: 12;" data-shape-stretch="false" data-shape-fill-color="#000000" data-shape-type="symbol-happy" class="sl-block-content">
+                            <svg viewBox="0 0 32 32" preserveAspectRatio="xMidYMid" height="100%" width="100%" version="1.1"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <g class="shape-element" fill="#000000">
+                                    <path d="M16 32c8.837 0 16-7.163 16-16s-7.163-16-16-16-16 7.163-16 16 7.163 16 16 16zM16 3c7.18 0 13 5.82 13 13s-5.82 13-13 13-13-5.82-13-13 5.82-13 13-13zM16 18.711c3.623 0 7.070-0.963 10-2.654-0.455 5.576-4.785 9.942-10 9.942-5.215 0-9.544-4.371-10-9.947 2.93 1.691 6.377 2.658 10 2.658zM8 11c0-1.657 0.895-3 2-3s2 1.343 2 3c0 1.657-0.895 3-2 3-1.105 0-2-1.343-2-3zM20 11c0-1.657 0.895-3 2-3s2 1.343 2 3c0 1.657-0.895 3-2 3-1.105 0-2-1.343-2-3z"></path>
+                                </g>
+                            </svg>
+                        </div>
+                    </div>
+                    <div style="height: auto; min-width: 30px; min-height: 30px; width: 600px; left: 0px; top: 126px;" data-block-type="text" class="sl-block">
+                        <div style="z-index: 13;" class="sl-block-content">
+                            <p style="text-align:left">
+                                <strong>-Raciocínio</strong>
+                            </p>
+                            <p style="text-align:left">
+                                <strong>-Idiomas</strong>
+                            </p>
+                            <p style="text-align:left">
+                                <strong>-Cultura</strong>
+                            </p>
+                        </div>
+                    </div>
+                    <div style="height: auto; min-width: 30px; min-height: 30px; width: 521px; left: 0px; top: 288px;" data-block-type="text" class="sl-block">
+                        <div style="z-index: 14;" class="sl-block-content">
+                            <p style="text-align: left;">
+                                <em>
+                                    <span style="font-size:16px">Os videogames trazem vários benefícios para as pessoas. Surgiram</span>
+                                </em>
+                            </p>
+                            <p style="text-align: left;">
+                                <em>
+                                    <span style="font-size:16px">também estudos
+                                        <br/>
+em universidades americanas e japonesas, apontando que estes tipos de jogos
+                                        <br/>
+“ajudariam a treinar agilidade no raciocínio e nos reflexos” (KENSKI, 2000). “Estudos
+                                        <br/>
+feitos com as modernas técnicas de tomografia mostram que o videogame ativa e
+                                        <br/>
+exercita mais áreas do cérebro do que as outras atividades de lazer.” (SOUZA, 2006).
+                                    </span>
+                                </em>
+                            </p>
+                        </div>
+                    </div>
+                    <div style="height: auto; min-width: 30px; min-height: 30px; width: 600px; left: 480px; top: 288px;" data-block-type="text" class="sl-block">
+                        <div style="z-index: 15;" class="sl-block-content">
+                            <p style="text-align:left">
+                                <em>
+                                    <span style="font-size:16px">Exemplo.. Os jogos educativos estão em alta na sociedade. Além de divertir, </span>
+                                </em>
+                            </p>
+                            <p style="text-align:left">
+                                <em>
+                                    <span style="font-size:16px">também</span>
+                                </em>
+                                <em>
+                                    <span style="font-size:16px"> podem ajudar na educação de crianças e, para os desenvolvedores,</span>
+                                </em>
+                            </p>
+                            <p style="text-align:left">
+                                <em>
+                                    <span style="font-size:16px">é um nicho de mercado que ainda é pouco explorado. </span>
+                                </em>
+                            </p>
+                            <p style="text-align:left">
+                                <em>
+                                    <span style="font-size:16px">Mas, ainda assim, muitos pedagogos têm receio de usar estes tipos de jogos na educação.</span>
+                                </em>
+                            </p>
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
+                        </div>
+                    </div>
+                    <div class="sl-block" data-block-type="image" style="min-width: 30px; min-height: 30px; width: 960px; height: 600px; left: 0px; top: 126px;">
+                        <div class="sl-block-content" style="z-index: 16; opacity: 0.22;">
+                            <img style="visibility: visible;" data-natural-width="1440" data-natural-height="900" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/pedrolopes-2/images/1244081/brain.jpg"/>
+                        </div>
+                    </div>
+                </section>
+                <section>
+                    <div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 69px; height: auto;">
+                        <div style="z-index: 11; background-color: rgb(204, 65, 37);" class="sl-block-content">
+                            <h1>Malefícios</h1>
+                        </div>
+                    </div>
+                    <div style="min-width: 4px; min-height: 4px; width: 284px; height: 280px; left: 648px; top: 43px;" data-block-type="shape" class="sl-block">
+                        <div style="z-index: 12;" data-shape-stretch="false" data-shape-fill-color="#000000" data-shape-type="symbol-sad" class="sl-block-content">
+                            <svg viewBox="0 0 32 32" preserveAspectRatio="xMidYMid" height="100%" width="100%" version="1.1"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <g class="shape-element" fill="#000000">
+                                    <path d="M16 32c8.837 0 16-7.163 16-16s-7.163-16-16-16-16 7.163-16 16 7.163 16 16 16zM16 3c7.18 0 13 5.82 13 13s-5.82 13-13 13-13-5.82-13-13 5.82-13 13-13zM8 10c0-1.105 0.895-2 2-2s2 0.895 2 2c0 1.105-0.895 2-2 2-1.105 0-2-0.895-2-2zM20 10c0-1.105 0.895-2 2-2s2 0.895 2 2c0 1.105-0.895 2-2 2-1.105 0-2-0.895-2-2zM9.997 24.398l-2.573-1.544c1.749-2.908 4.935-4.855 8.576-4.855 3.641 0 6.827 1.946 8.576 4.855l-2.573 1.544c-1.224-2.036-3.454-3.398-6.003-3.398-2.549 0-4.779 1.362-6.003 3.398z"></path>
+                                </g>
+                            </svg>
+                        </div>
+                    </div>
+                    <div style="height: auto; min-width: 30px; min-height: 30px; width: 600px; left: 0px; top: 203px;" data-block-type="text" class="sl-block">
+                        <div style="z-index: 13;" class="sl-block-content">
+                            <p style="text-align: left;">
+                                <strong>-Vício</strong>
+                            </p>
+                            <p style="text-align: left;">
+                                <strong>-Jogos Violentos</strong>
+                            </p>
+                            <p style="text-align: left;">&nbsp;</p>
+                        </div>
+                    </div>
+                    <div style="height: auto; min-width: 30px; min-height: 30px; width: 594px; left: 6px; top: 302px;" data-block-type="text" class="sl-block">
+                        <div style="z-index: 14;" class="sl-block-content">
+                            <p style="text-align: left;">
+                                <span style="font-size:16px">O primeiro malefício, e muito comum em qualquer tipo de jogo (não só os
+                                    <br/>
+videogames) é o vício. Por ser uma atividade prazerosa, os jogadores podem viciar
+                                    <br/>
+rapidamente. Já ocorreram mortes de jogadores que jogaram muitas horas, com
+                                    <br/>
+poucas pausas para comer e dormir.
+                                </span>
+                            </p>
+                            <p style="text-align: left;">&nbsp;</p>
+                        </div>
+                    </div>
+                    <div style="height: auto; min-width: 30px; min-height: 30px; width: 600px; left: 3px; top: 534px;" data-block-type="text" class="sl-block">
+                        <div style="z-index: 15;" class="sl-block-content">
+                            <p style="text-align:left">
+                                <span style="font-size:16px">...”Um sul-coreano que passou 50 horas quase ininterruptas à frente de um
+                                    <br/>
+computador, divertindo-se com jogos, morreu de parada cardíaca minutos depois de finalizar sua epopéia em um cybercafe (YOO-CHUL, 2005).”
+                                </span>
+                            </p>
+                            <p style="text-align:left">&nbsp;</p>
+                        </div>
+                    </div>
+                    <div style="min-width: 30px; min-height: 30px; width: 360px; height: 320.4px; left: 600px; top: 323px;" data-block-type="image" class="sl-block">
+                        <div style="z-index: 16;" class="sl-block-content">
+                            <img data-natural-height="356" data-natural-width="400" style="visibility: visible;" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/pedrolopes-2/images/1242453/GTA.png"/>
+                        </div>
+                    </div>
+                    <div class="sl-block" data-block-type="image" style="min-width: 30px; min-height: 30px; width: 959px; height: 599.375px; left: 0px; top: 166px;">
+                        <div class="sl-block-content" style="z-index: 17; opacity: 0.22;">
+                            <img style="visibility: visible;" data-natural-width="1440" data-natural-height="900" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/pedrolopes-2/images/1244089/homerss.jpg"/>
+                        </div>
+                    </div>
+                </section>
+                <section>
+                    <div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 69px; height: auto;">
+                        <div style="z-index: 10; background-color: rgb(32, 18, 77);" class="sl-block-content">
+                            <p>
+                                <strong>
+                                    <span style="font-size:48px">Vídeo</span>
+                                </strong>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="sl-block" data-block-type="image" style="min-width: 30px; min-height: 30px; width: 360px; height: 360px; left: 300px; top: 199px;">
+                        <div class="sl-block-content" style="z-index: 12;">
+                            <img style="visibility: visible;" data-natural-width="512" data-natural-height="512" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/pedrolopes-2/images/1244099/camera.png"/>
+                        </div>
+                    </div>
+                </section>
+                <section>
+                    <div class="sl-block" data-block-type="text" style="width: 960px; left: 0px; top: 0px; height: auto;">
+                        <div style="background-color: rgb(159, 197, 232); z-index: 11;" class="sl-block-content">
+                            <h1>Agradecimentos</h1>
+                            <p>&nbsp;</p>
+                        </div>
+                    </div>
+                    <div style="min-width: 4px; min-height: 4px; width: 247px; height: 243px; left: 720px; top: -24px;" data-block-type="shape" class="sl-block">
+                        <div style="z-index: 12;" data-shape-stretch="false" data-shape-fill-color="#000000" data-shape-type="symbol-checkmark-circle" class="sl-block-content">
+                            <svg viewBox="0 0 32 32" preserveAspectRatio="xMidYMid" height="100%" width="100%" version="1.1"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <g class="shape-element" fill="#000000">
+                                    <path d="M16 0c-8.836 0-16 7.164-16 16s7.164 16 16 16 16-7.164 16-16-7.164-16-16-16zM13.52 23.383l-7.362-7.363 2.828-2.828 4.533 4.535 9.617-9.617 2.828 2.828-12.444 12.445z"></path>
+                                </g>
+                            </svg>
+                        </div>
+                    </div>
+                    <div style="height: auto; min-width: 30px; min-height: 30px; width: 600px; left: 0px; top: 148px;" data-block-type="text" class="sl-block">
+                        <div style="z-index: 13;" class="sl-block-content">
+                            <p style="text-align:left">Escola Estadual Américo Antunes de Oliveira,</p>
+                            <p style="text-align:left">&nbsp;</p>
+                            <p style="text-align:left">Aos estudantes pela atenção,</p>
+                            <p style="text-align:left">&nbsp;</p>
+                            <p style="text-align:left">e ao convite feito pela Stefany.&nbsp;</p>
+                            <p style="text-align:left">&nbsp;</p>
+                            <p style="text-align:left">&nbsp;</p>
+                            <p style="text-align:left">:D Obrigado!</p>
+                            <p style="text-align:left">&nbsp;</p>
+                            <p style="text-align:left">&nbsp;</p>
+                            <p style="text-align:left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pedro Lopes</p>
+                            <p style="text-align:left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Turmalina, MG -&nbsp;&nbsp;2015.</p>
+                        </div>
+                    </div>
+                    <div style="min-width: 30px; min-height: 30px; width: 362px; height: 181px; left: 598px; top: 518px;" data-block-type="image" class="sl-block">
+                        <div style="z-index: 14;" class="sl-block-content">
+                            <img data-natural-height="200" data-natural-width="400" style="visibility: visible;" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/pedrolopes-2/images/1242524/400px-Area31_hackspace_transp.png"/>
+                        </div>
+                    </div>
+                </section>
+            </section>
+        </div>
+    </div>
+</div>
