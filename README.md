@@ -4,8 +4,8 @@ Palestra "Os jogos eletrônicos e seus impactos na sociedade."
 
 Usei Reveal.js para desenvolver, é uma apresentação básica.
 
-*Fui convidado pela Gatita para dar uma força pra ela em um trabalho da escola, e aceitei :D*
-*Copie, Edite, use e reuse - Você tem direito disso :D*
+*Fui convidado pela Gatita para dar uma força pra ela em um trabalho da escola, e aceitei :D.
+
 
 - Quem sou eu
 - Panorama Atual
@@ -14,4 +14,5 @@ Usei Reveal.js para desenvolver, é uma apresentação básica.
 - Vídeo
 - Agradecimentos
 
+*Redistribua, edite, copie, hackeie, você tem direito disso!*
     
